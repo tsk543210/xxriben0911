@@ -16,4 +16,4 @@
 
 除了在线视频播放，很多平台还提供下载功能，让用户可以在没有互联网连接时也能观看喜爱的影片。下载功能也可以让用户随时随地观看视频，确保观影体验更加便捷和灵活。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0911 ）</span>
